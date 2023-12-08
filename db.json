@@ -1,0 +1,23 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "name": "Diksha Sharma",
+      "date": "2023-12-15",
+      "time": "18:00"
+    },
+    {
+      "id": 2,
+      "name": "Radheshyam Sharma",
+      "date": "2023-12-18",
+      "time": "19:30"
+    },
+    {
+      "name": "Nick",
+      "email": "n@gmail.com",
+      "date": "2023-12-08",
+      "time": "18:43",
+      "id": 3
+    }
+  ]
+}
